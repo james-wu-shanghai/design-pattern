@@ -16,6 +16,6 @@ public class ConcreteColleague1 implements Colleague {
 
     @Override
     public void rollback() {
-        System.out.println("ConcreteColleague2 rollback");
+        System.out.println("ConcreteColleague1 rollback");
     }
 }
